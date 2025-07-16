@@ -1,0 +1,74 @@
+[
+    {
+        "nome": "Nike Metcon 4",
+        "prezo": "130&euro;",
+        "categoria": "Woman's Training",
+        "portada": "./img/image-49.jpg"
+    },
+    {
+        "nome": "Nike Metcon 7",
+        "prezo": "130&euro;",
+        "categoria": "Woman's Training",
+        "portada": "./img/image-50.jpg"
+    },
+    {
+        "nome": "Nike Metcon 2",
+        "prezo": "130&euro;",
+        "categoria": "Woman's Training",
+        "portada": "./img/image-51.jpg"
+    },
+    {
+        "nome": "Nike Metcon 10",
+        "prezo": "130&euro;",
+        "categoria": "Woman's Training",
+        "portada": "./img/image-52.jpg"
+    },
+    {
+        "nome": "Nike Metcon 6",
+        "prezo": "130&euro;",
+        "categoria": "Woman's Training",
+        "portada": "./img/image-53.jpg"
+    },
+    {
+        "nome": "Nike Metcon 3",
+        "prezo": "130&euro;",
+        "categoria": "Woman's Training",
+        "portada": "./img/image-54.jpg"
+    },
+    {
+        "nome": "Nike Metcon 9",
+        "prezo": "130&euro;",
+        "categoria": "Woman's Training",
+        "portada": "./img/image-55.jpg"
+    },
+    {
+        "nome": "Nike Metcon 8",
+        "prezo": "130&euro;",
+        "categoria": "Woman's Training",
+        "portada": "./img/image-56.jpg"
+    },
+    {
+        "nome": "Nike Metcon 12",
+        "prezo": "130&euro;",
+        "categoria": "Woman's Training",
+        "portada": "./img/image-57.jpg"
+    },
+    {
+        "nome": "Nike Metcon 13",
+        "prezo": "130&euro;",
+        "categoria": "Woman's Training",
+        "portada": "./img/image-59.jpg"
+    },
+    {
+        "nome": "Nike Metcon 16",
+        "prezo": "130&euro;",
+        "categoria": "Woman's Training",
+        "portada": "./img/image-60.jpg"
+    },
+    {
+        "nome": "Nike Metcon 17",
+        "prezo": "130&euro;",
+        "categoria": "Woman's Training",
+        "portada": "./img/image-61.jpg"
+    }
+]

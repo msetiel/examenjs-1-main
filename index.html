@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="gl">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tenda deportiva</title>
+    <meta name="description" content="Páxina web dunha entidade que ofrece servizo de venta de roupa deportiva">
+    <meta name="keywords" content="keys, to, seo">
+    <meta name="author" content="setiel">
+    <link rel="shortcut icon" href="favicon.svg" />
+    <link rel="stylesheet" href="./css/style.css" />
+</head>
+
+<body>
+    <header class="navbar">
+        <div class="logo">Code<sup>&copy;</sup> Sensei</div>
+        <ul class="nav-links">
+            <input type="checkbox" id="checkbox_toggle" />
+            <label for="checkbox_toggle" class="hamburger">&#9776;</label>
+            <nav class="menu">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li class="services">
+                    <a href="#">Services</a>
+                    <ul class="dropdown">
+                        <li><a href="#">Option1</a></li>
+                        <li><a href="#">Option2</a></li>
+                        <li><a href="#">Option3</a></li>
+                        <li><a href="#">Option4</a></li>
+                        <li><a href="#">Option5</a></li>
+                    </ul>
+                </li>
+                <li><a href="#tienda">Pricing</a></li>
+                <li><a href="#">Contact</a></li>
+            </nav>
+        </ul>
+    </header>
+
+    <main id="tienda">
+        <h1>Últimos produtos</h1>
+
+        <section id="product-list">
+
+        </section>
+    </main>
+
+
+    <div id="modal" class="modal">
+        <div class="modal-contidos">
+            <span id="cerrar-modal" class="cerrar-modal">&times;</span>
+            <div>
+                <h2 id="modal-nome"></h2>
+                <img src="#" alt="imaxe do produto" id="modal-portada" >
+                <p><strong>Autor:</strong><span id="modal-prezo"></span></p>
+                <p id="modal-categoria"></p>
+            </div>
+        </div>
+    </div>
+
+
+    <footer>
+        <div class="waves">
+            <div class="wave" id="wave1"></div>
+            <div class="wave" id="wave2"></div>
+            <div class="wave" id="wave3"></div>
+            <div class="wave" id="wave4"></div>
+        </div>
+
+        <ul class="social_icon">
+            <li><a href="#"><img src="./img/facebook.svg" alt="facebook icon"></a></li>
+            <li><a href="#"><img src="./img/linkedin.svg" alt="linkedin icon"></a></li>
+            <li><a href="#"><img src="./img/mastodon.svg" alt="mastodon icon"></a></li>
+            <li><a href="#"><img src="./img/instagram.svg" alt="instagram icon"></a></li>
+        </ul>
+
+        <ul class="footer-menu">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Pricing</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+        <p>&copy; 2025 Code Sensei | All rights reserved</p>
+    </footer>
+
+
+    <script src="./js/script-json.js"></script>
+</body>
+
+</html>
